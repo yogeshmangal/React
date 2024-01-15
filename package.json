@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Yogesh Mangal",
   "scripts": {
-    "start": "parcel Episode-5/index.html",
-    "build": "parcel build Episode-5/index.html",
+    "start": "parcel Episode-6/index.html",
+    "build": "parcel build Episode-6/index.html",
     "test": "jest"
   },
   "repository": {
